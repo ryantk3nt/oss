@@ -2,7 +2,7 @@
 
 ## 1. Discord
 
-![Screenshot](images/lab1/discord.PNG)
+![Screenshot](../../images/lab1/discord.PNG)
 
 ## 2. Reading Assignments
 
