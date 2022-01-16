@@ -2,7 +2,7 @@
 
 ## 1. Discord
 
-![Screenshot](../../images/lab1/discord.PNG)
+![Screenshot](images/discord.PNG)
 
 ## 2. Reading Assignments
 
@@ -12,28 +12,28 @@
 
  ## 3. Linux
 
- ![Screenshot](../../images/lab1/tree.PNG)
+ ![Screenshot](images/lab1/tree.png)
 
  ## 4. Regex
  
   1. Regex One
-  ![Screenshot 1](../../images/lab1/regex1.PNG)
-  ![Screenshot 2](../../images/lab1/regex2.PNG)
-  ![Screenshot 3](../../images/lab1/regex3.PNG)
-  ![Screenshot 4](../../images/lab1/regex4.PNG)
-  ![Screenshot 5](../../images/lab1/regex5.PNG)
-  ![Screenshot 6](../../images/lab1/regex6.PNG)
-  ![Screenshot 7](../../images/lab1/regex7.PNG)
+  ![Screenshot 1](images/regex1.png)
+  ![Screenshot 2](images/regex2.png)
+  ![Screenshot 3](images/regex3.png)
+  ![Screenshot 4](images/regex4.png)
+  ![Screenshot 5](images/regex5.png)
+  ![Screenshot 6](images/regex6.png)
+  ![Screenshot 7](images/regex7.png)
 
   2. Regex Crosswords
-  ![Screenshot 1](../../images/lab1/crossword1.PNG)
-  ![Screenshot 2](../../images/lab1/crossword2.PNG)
-  ![Screenshot 3](../../images/lab1/crossword3.PNG)
-  ![Screenshot 4](../../images/lab1/crossword4.PNG)
+  ![Screenshot 1](images/crossword1.png)
+  ![Screenshot 2](images/crossword2.png)
+  ![Screenshot 3](images/crossword3.png)
+  ![Screenshot 4](images/crossword4.png)
 
   ## 5. Blockly
 
-  ![Screenshot](../../images/lab1/blockly.PNG)
+  ![Screenshot](images/blockly.png)
 
   ## 6. Reflection
 
