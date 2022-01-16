@@ -1,8 +1,12 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Ryan Kent
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Senior CS student with an interest in movies and TV, PC and console gaming, pencil art, and other things!
+
+Discord username: sj
+
+Me: ![Me](images/self.PNG)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
