@@ -6,7 +6,7 @@ Senior CS student with an interest in movies and TV, PC and console gaming, penc
 
 Discord username: sj
 
-![Me](images/lab1/self.PNG)
+![Me](images/lab1/self.JPG)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)

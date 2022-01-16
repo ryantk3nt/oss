@@ -12,28 +12,28 @@
 
  ## 3. Linux
 
- ![Screenshot](images/lab1/tree.PNG)
+ ![Screenshot](../../images/lab1/tree.PNG)
 
  ## 4. Regex
  
   1. Regex One
-  ![Screenshot 1](images/lab1/regex1.PNG)
-  ![Screenshot 2](images/lab1/regex2.PNG)
-  ![Screenshot 3](images/lab1/regex3.PNG)
-  ![Screenshot 4](images/lab1/regex4.PNG)
-  ![Screenshot 5](images/lab1/regex5.PNG)
-  ![Screenshot 6](images/lab1/regex6.PNG)
-  ![Screenshot 7](images/lab1/regex7.PNG)
+  ![Screenshot 1](../../images/lab1/regex1.PNG)
+  ![Screenshot 2](../../images/lab1/regex2.PNG)
+  ![Screenshot 3](../../images/lab1/regex3.PNG)
+  ![Screenshot 4](../../images/lab1/regex4.PNG)
+  ![Screenshot 5](../../images/lab1/regex5.PNG)
+  ![Screenshot 6](../../images/lab1/regex6.PNG)
+  ![Screenshot 7](../../images/lab1/regex7.PNG)
 
   2. Regex Crosswords
-  ![Screenshot 1](images/lab1/crossword1.PNG)
-  ![Screenshot 2](images/lab1/crossword2.PNG)
-  ![Screenshot 3](images/lab1/crossword3.PNG)
-  ![Screenshot 4](images/lab1/crossword4.PNG)
+  ![Screenshot 1](../../images/lab1/crossword1.PNG)
+  ![Screenshot 2](../../images/lab1/crossword2.PNG)
+  ![Screenshot 3](../../images/lab1/crossword3.PNG)
+  ![Screenshot 4](../../images/lab1/crossword4.PNG)
 
   ## 5. Blockly
 
-  ![Screenshot](images/lab1/blockly.PNG)
+  ![Screenshot](../../images/lab1/blockly.PNG)
 
   ## 6. Reflection
 
