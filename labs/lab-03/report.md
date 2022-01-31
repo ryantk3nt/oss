@@ -17,10 +17,14 @@ Number of contributors: 5
 
 Number of lines: 39059
 
-First Commit: ![First Commit](firstcommit.PNG)
-Last Commit: ![Last Commit](lastcommit.PNG)
-Branches: ![Branches](branches.PNG)
+First Commit: 
+![First Commit](firstcommit.PNG)
+Last Commit: 
+![Last Commit](lastcommit.PNG)
+Branches: 
+![Branches](branches.PNG)
 
-GitStats results: ![GitStats](gitstats.PNG)
+GitStats results: 
+![GitStats](gitstats.PNG)
 
 The gitstats analysis shows a similar number of lines of code as the command line argument, but contains much more information about the repo. Graphs showing commits over time by author and other useful graphs and charts tell a more complete story of the project. 
