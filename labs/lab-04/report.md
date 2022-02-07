@@ -11,7 +11,6 @@
 5. I think the conflict pointed out in the article reflect the complexities of open-source projects in general. Open-source vs. propietary software differ in their philosophy about collaborative development and the discussion goes further than Gopher vs. the Web or even software development. Even after reading the article by Lee, I don't feel qualified enough to agree or disagree with their reasoning about the closed system ideology dooming Gopher, but in my opinion creating barriers in communities like these will always lead to eventual loss of interest by the enthusiasts who drive the whole community.
 
 6. For the Android Open Source Project, their documentation explains plainly why they've chosen the Apache license over other licenses like LGPL. According to them, their main focus in licensing is to keep collaboration as easy as possible and remove any legal and engineering roadblocks that more restrictive licenses can raise. Their stated goal is to keep things as free and open as possible, without forcing developers to follow extensive guidelines to explain modifications or train engineers on compliance problems.
-
 Source: https://source.android.com/setup/start/licenses#:~:text=Why%20Apache%20Software%20License%3F,-For%20userspace%20(non&text=The%20purpose%20of%20Android%20is,force%20them%20to%20do%20so.
 
 7. Link to example business repo - ![Link](https://github.com/ryantk3nt/lab4business)
@@ -25,4 +24,4 @@ Source: https://source.android.com/setup/start/licenses#:~:text=Why%20Apache%20S
 | ![Peer Support](https://github.com/IanSteenstra/PeerSupport) | Anonymous chatting client for mental health talk | MIT License |
 | ![Catan AI](https://github.com/justinchen673/catan-ai) | AI to play the board game Catan against | MIT License |
 | ![Wiki Analysis](https://github.com/harrdarbo/wikianalysis) | A Wikipedia article analyzation tool | MIT License |
-| ![DeepReader](https://github.com/shanalily/DeepReader) | An education, note-taking toool | GNU GPLv3.0 |
+| ![DeepReader](https://github.com/shanalily/DeepReader) | A note-taking tool for college textbooks | GNU GPLv3.0 |
