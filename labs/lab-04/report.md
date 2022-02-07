@@ -12,7 +12,7 @@
 
 6. For the Android Open Source Project, their documentation explains plainly why they've chosen the Apache license over other licenses like LGPL. According to them, their main focus in licensing is to keep collaboration as easy as possible and remove any legal and engineering roadblocks that more restrictive licenses can raise. Their stated goal is to keep things as free and open as possible, without forcing developers to follow extensive guidelines to explain modifications or train engineers on compliance problems.
 
-Source: ![Link](https://source.android.com/setup/start/licenses#:~:text=Why%20Apache%20Software%20License%3F,-For%20userspace%20(non&text=The%20purpose%20of%20Android%20is,force%20them%20to%20do%20so.)
+Source: https://source.android.com/setup/start/licenses#:~:text=Why%20Apache%20Software%20License%3F,-For%20userspace%20(non&text=The%20purpose%20of%20Android%20is,force%20them%20to%20do%20so.
 
 7. Link to example business repo - ![Link](https://github.com/ryantk3nt/lab4business)
 
