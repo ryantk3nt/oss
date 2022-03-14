@@ -71,7 +71,7 @@ def words_graph():
 
 if __name__ == '__main__':
     G = words_graph()
-    print("Loaded words_dat.txt containing 5757 five-letter English words.")
+    print("Loaded words_dat.txt containing 2174 four-letter English words.")
     print("Two words are connected if they differ in one letter.")
     print("Graph has %d nodes with %d edges"
           % (nx.number_of_nodes(G), nx.number_of_edges(G)))

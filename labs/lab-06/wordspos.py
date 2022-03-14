@@ -43,7 +43,6 @@ def generate_graph(words):
     lookup = dict((c, lowercase.index(c)) for c in lowercase)
 
     def edit_distance_one(word):
-        tracked = []
         permutations = itertools.permutations(word)
         for w in permutations:
             word = ""
